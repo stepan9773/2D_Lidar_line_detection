@@ -1,4 +1,6 @@
 # 2D Lidar line detection
+if its help you please buy me a cup of coffe [(❁´◡`❁)](https://www.buymeacoffee.com/StepanDupliak) on buymeacoffee.com platform  [here](https://www.buymeacoffee.com/StepanDupliak)
+
 ## From
 ![alt text](https://github.com/stepan9773/2D_Lidar_line_detection/blob/master/map/1.png?raw=true)
 ## To
